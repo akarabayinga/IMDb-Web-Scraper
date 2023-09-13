@@ -1,0 +1,1001 @@
+Rank,Movie Title,Year of Release,Run Time (minutes),Rating,Star Rating,Metascore,Number of Votes,Gross Revenue in millions (USD)
+1,The Shawshank Redemption,1994,142,R,9.3,82,2796722,28.34
+2,The Godfather,1972,175,R,9.2,100,1948395,134.97
+3,The Dark Knight,2008,152,PG-13,9.0,84,2777605,534.86
+4,Schindler's List,1993,195,R,9.0,95,1406133,96.9
+5,The Lord of the Rings: The Return of the King,2003,201,PG-13,9.0,94,1915094,377.85
+6,The Godfather Part II,1974,202,R,9.0,90,1323371,57.3
+7,12 Angry Men,1957,96,Approved,9.0,97,831117,4.36
+8,Pulp Fiction,1994,154,R,8.9,95,2145290,107.93
+9,Inception,2010,148,PG-13,8.8,74,2465944,292.58
+10,The Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,8.8,92,1943254,315.54
+11,Fight Club,1999,139,R,8.8,67,2230612,37.03
+12,Forrest Gump,1994,142,PG-13,8.8,82,2176162,330.25
+13,"The Good, the Bad and the Ugly",1966,178,Approved,8.8,90,788749,6.1
+14,The Lord of the Rings: The Two Towers,2002,179,PG-13,8.8,87,1728125,342.55
+15,Jai Bhim,2021,164,TV-MA,8.8,,210145,
+16,777 Charlie,2022,164,,8.8,,36555,
+17,Spider-Man: Across the Spider-Verse,2023,140,PG,8.7,86,255835,
+18,Interstellar,2014,169,PG-13,8.7,74,1985550,188.02
+19,Goodfellas,1990,145,R,8.7,92,1213535,46.84
+20,The Matrix,1999,136,R,8.7,73,1988714,171.48
+21,One Flew Over the Cuckoo's Nest,1975,133,R,8.7,84,1042756,112.0
+22,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,8.7,82,1340779,290.48
+23,Rocketry: The Nambi Effect,2022,157,Not Rated,8.7,,55248,
+24,Soorarai Pottru,2020,153,TV-MA,8.7,,120752,
+25,Oppenheimer,2023,180,R,8.6,88,427278,
+26,Se7en,1995,127,R,8.6,65,1731565,100.13
+27,The Silence of the Lambs,1991,118,R,8.6,86,1492170,130.74
+28,Saving Private Ryan,1998,169,R,8.6,91,1448536,216.54
+29,The Green Mile,1999,189,R,8.6,61,1359383,136.8
+30,Star Wars: Episode IV - A New Hope,1977,121,PG,8.6,90,1412533,322.74
+31,Terminator 2: Judgment Day,1991,137,R,8.6,75,1140805,204.84
+32,Spirited Away,2001,125,PG,8.6,96,808672,10.06
+33,City of God,2002,130,R,8.6,79,780966,7.56
+34,Life Is Beautiful,1997,116,PG-13,8.6,59,721858,57.6
+35,It's a Wonderful Life,1946,130,PG,8.6,89,478613,
+36,Seven Samurai,1954,207,Not Rated,8.6,98,357689,0.27
+37,Harakiri,1962,133,Not Rated,8.6,85,63570,
+38,Sita Ramam,2022,163,,8.6,,62762,
+39,Gladiator,2000,155,R,8.5,67,1561296,187.71
+40,The Prestige,2006,130,PG-13,8.5,66,1395081,53.09
+41,Alien,1979,117,R,8.5,89,918270,78.9
+42,Parasite,2019,132,R,8.5,96,886179,53.37
+43,The Departed,2006,151,R,8.5,85,1378624,132.38
+44,Back to the Future,1985,116,PG,8.5,87,1262118,210.61
+45,Django Unchained,2012,165,R,8.5,81,1633083,162.81
+46,Whiplash,2014,106,R,8.5,89,930534,13.09
+47,Léon: The Professional,1994,110,R,8.5,64,1208069,19.5
+48,American History X,1998,119,R,8.5,62,1157562,6.72
+49,The Lion King,1994,88,G,8.5,88,1104516,422.78
+50,The Usual Suspects,1995,106,R,8.5,77,1117985,23.34
+51,The Pianist,2002,150,R,8.5,85,876556,32.57
+52,Psycho,1960,109,R,8.5,97,697916,32.0
+53,Casablanca,1942,102,PG,8.5,100,591393,1.02
+54,The Intouchables,2011,112,R,8.5,57,897030,13.18
+55,Grave of the Fireflies,1988,89,Not Rated,8.5,94,295154,
+56,Once Upon a Time in the West,1968,165,PG-13,8.5,82,341390,5.32
+57,Rear Window,1954,112,PG,8.5,100,508558,36.76
+58,Cinema Paradiso,1988,155,R,8.5,80,273487,11.99
+59,Modern Times,1936,87,G,8.5,96,252235,0.16
+60,City Lights,1931,87,G,8.5,99,191198,0.02
+61,96,2018,158,Not Rated,8.5,,34040,
+62,The Dark Knight Rises,2012,164,PG-13,8.4,78,1774568,448.14
+63,Joker,2019,122,R,8.4,59,1398907,335.45
+64,Raiders of the Lost Ark,1981,115,PG,8.4,85,1012322,248.16
+65,Oldboy,2003,120,R,8.4,78,609853,0.71
+66,Spider-Man: Into the Spider-Verse,2018,117,PG,8.4,87,628419,190.24
+67,Amadeus,1984,160,R,8.4,87,416399,51.97
+68,Avengers: Endgame,2019,181,PG-13,8.4,78,1212870,858.37
+69,Aliens,1986,137,R,8.4,84,742534,85.16
+70,Memento,2000,113,R,8.4,83,1286007,25.54
+71,The Shining,1980,146,R,8.4,66,1068309,44.02
+72,Apocalypse Now,1979,147,R,8.4,94,691367,83.47
+73,Avengers: Infinity War,2018,149,PG-13,8.4,68,1153900,678.82
+74,Come and See,1985,142,Not Rated,8.4,,89719,
+75,Coco,2017,105,PG,8.4,81,553332,209.73
+76,Your Name.,2016,106,PG,8.4,81,298356,5.02
+77,WALL·E,2008,98,G,8.4,95,1162920,223.81
+78,The Lives of Others,2006,137,R,8.4,89,401057,11.29
+79,3 Idiots,2009,170,PG-13,8.4,67,417786,6.53
+80,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,PG,8.4,97,506358,0.28
+81,Capernaum,2018,126,R,8.4,75,98856,1.66
+82,Das Boot,1981,149,R,8.4,86,258613,11.49
+83,Sunset Blvd.,1950,110,Passed,8.4,94,230206,
+84,Witness for the Prosecution,1957,116,Approved,8.4,76,132264,8.18
+85,Paths of Glory,1957,88,Approved,8.4,90,205829,
+86,The Great Dictator,1940,125,G,8.4,,231746,0.29
+87,High and Low,1963,143,Not Rated,8.4,90,49587,
+88,Kaithi,2019,145,Not Rated,8.4,,37582,
+89,Sardar Udham,2021,164,TV-MA,8.4,,45131,
+90,Asuran,2019,141,Not Rated,8.4,,31952,
+91,Drishyam 2,2021,152,,8.4,,39613,
+92,Top Gun: Maverick,2022,130,PG-13,8.3,78,628889,718.73
+93,Inglourious Basterds,2009,153,R,8.3,69,1523005,120.54
+94,Heat,1995,170,R,8.3,76,692120,67.44
+95,American Beauty,1999,122,R,8.3,84,1185295,130.1
+96,Requiem for a Dream,2000,102,R,8.3,71,874131,3.64
+97,2001: A Space Odyssey,1968,149,G,8.3,84,697452,56.95
+98,Good Will Hunting,1997,126,R,8.3,70,1021921,138.43
+99,Braveheart,1995,178,R,8.3,68,1067671,75.6
+100,The Hunt,2012,115,R,8.3,77,349136,0.69
+101,Eternal Sunshine of the Spotless Mind,2004,108,R,8.3,89,1045599,34.4
+102,Scarface,1983,170,18+,8.3,65,883656,45.6
+103,A Clockwork Orange,1971,136,R,8.3,77,859132,6.21
+104,Full Metal Jacket,1987,116,R,8.3,78,769519,46.36
+105,Reservoir Dogs,1992,99,R,8.3,81,1058514,2.83
+106,Toy Story,1995,81,G,8.3,96,1036327,191.8
+107,Once Upon a Time in America,1984,229,R,8.3,75,366362,5.32
+108,Amélie,2001,122,R,8.3,69,777680,33.23
+109,Hamilton,2020,160,PG-13,8.3,89,105728,
+110,Up,2009,96,PG,8.3,88,1089174,293.0
+111,Star Wars: Episode VI - Return of the Jedi,1983,131,PG,8.3,58,1092499,309.13
+112,Incendies,2010,131,R,8.3,80,188801,6.86
+113,Toy Story 3,2010,103,G,8.3,92,868847,415.0
+114,Princess Mononoke,1997,134,PG-13,8.3,76,415176,2.38
+115,Lawrence of Arabia,1962,218,Approved,8.3,100,305429,44.82
+116,The Apartment,1960,125,Approved,8.3,94,189903,18.6
+117,Citizen Kane,1941,119,PG,8.3,100,455874,1.59
+118,Vertigo,1958,128,PG,8.3,100,416229,3.2
+119,Singin' in the Rain,1952,103,G,8.3,99,252970,8.82
+120,Metropolis,1927,153,Not Rated,8.3,98,180633,1.24
+121,To Kill a Mockingbird,1962,129,Approved,8.3,88,325977,
+122,North by Northwest,1959,136,Approved,8.3,98,338498,13.28
+123,Vikram,2022,175,,8.3,,66296,
+124,The Sting,1973,129,PG,8.3,83,272679,159.6
+125,M,1931,99,Passed,8.3,,164058,0.03
+126,A Separation,2011,123,PG-13,8.3,95,252624,7.1
+127,Ikiru,1952,143,Not Rated,8.3,92,83846,0.06
+128,Double Indemnity,1944,107,Passed,8.3,95,163105,5.72
+129,Judgment at Nuremberg,1961,179,Approved,8.3,60,81609,
+130,Like Stars on Earth,2007,165,PG,8.3,,201335,1.22
+131,Dangal,2016,161,Not Rated,8.3,,201401,12.39
+132,Bicycle Thieves,1948,89,Not Rated,8.3,,170184,0.33
+133,K.G.F: Chapter 2,2022,168,Not Rated,8.3,,142478,6.6
+134,Chhichhore,2019,143,Not Rated,8.3,,59701,2.0
+135,Kantara,2022,148,Not Rated,8.3,,97989,
+136,Ayla: The Daughter of War,2017,125,,8.3,,42359,
+137,Shershaah,2021,135,TV-14,8.3,,126399,
+138,Raatchasan,2018,170,Not Rated,8.3,,48103,
+139,Drishyam,2013,160,Not Rated,8.3,,43030,
+140,The Wolf of Wall Street,2013,180,R,8.2,75,1505614,116.9
+141,Jurassic Park,1993,127,PG-13,8.2,68,1033498,402.45
+142,Batman Begins,2005,140,PG-13,8.2,70,1533052,206.85
+143,No Country for Old Men,2007,122,R,8.2,92,1021652,74.28
+144,Spider-Man: No Way Home,2021,148,PG-13,8.2,71,829700,804.75
+145,Taxi Driver,1976,114,R,8.2,94,884094,28.26
+146,Shutter Island,2010,138,R,8.2,63,1393848,128.01
+147,There Will Be Blood,2007,158,R,8.2,93,617960,40.22
+148,Indiana Jones and the Last Crusade,1989,127,PG-13,8.2,65,791061,197.17
+149,The Truman Show,1998,103,PG,8.2,90,1144587,125.62
+150,Kill Bill: Vol. 1,2003,111,R,8.2,69,1157800,70.1
+151,The Thing,1982,109,16+,8.2,57,446826,13.78
+152,Snatch,2000,102,R,8.2,55,885664,30.33
+153,Green Book,2018,130,PG-13,8.2,69,534294,85.08
+154,Casino,1995,178,R,8.2,73,544697,42.44
+155,V for Vendetta,2005,132,R,8.2,62,1153451,70.51
+156,1917,2019,119,R,8.2,78,640812,159.23
+157,Some Like It Hot,1959,121,Passed,8.2,98,276644,25.0
+158,Howl's Moving Castle,2004,119,PG,8.2,82,423395,4.71
+159,The Sixth Sense,1999,107,PG-13,8.2,64,1023584,293.51
+160,Die Hard,1988,132,R,8.2,72,911897,83.01
+161,A Beautiful Mind,2001,135,PG-13,8.2,72,962254,170.74
+162,Finding Nemo,2003,100,G,8.2,90,1082558,380.84
+163,Unforgiven,1992,130,R,8.2,85,426049,101.16
+164,L.A. Confidential,1997,138,R,8.2,91,600778,64.62
+165,Chinatown,1974,130,R,8.2,92,339603,
+166,Pan's Labyrinth,2006,118,R,8.2,98,688214,37.63
+167,Gone with the Wind,1939,238,Passed,8.2,97,326374,198.68
+168,Downfall,2004,156,R,8.2,82,366628,5.51
+169,The Father,2020,97,PG-13,8.2,88,176744,
+170,The Secret in Their Eyes,2009,129,R,8.2,80,216894,6.39
+171,Monty Python and the Holy Grail,1975,91,PG,8.2,91,557984,1.23
+172,Ran,1985,162,R,8.2,97,131721,4.14
+173,The Great Escape,1963,172,Approved,8.2,86,252616,12.1
+174,The Elephant Man,1980,124,PG,8.2,78,251635,
+175,For a Few Dollars More,1965,132,R,8.2,74,266879,15.0
+176,Tumbbad,2018,104,Not Rated,8.2,,55001,
+177,Demon Slayer the Movie: Mugen Train,2020,117,R,8.2,72,67727,47.7
+178,Dial M for Murder,1954,105,PG,8.2,75,183488,0.01
+179,All About Eve,1950,138,Passed,8.2,98,135712,0.01
+180,Rashomon,1950,88,Not Rated,8.2,98,175332,0.1
+181,Drishyam 2,2022,140,Not Rated,8.2,,40062,
+182,Gangs of Wasseypur,2012,321,Not Rated,8.2,89,100680,
+183,Klaus,2019,96,PG,8.2,65,171345,
+184,The Wages of Fear,1953,131,Not Rated,8.2,85,64314,
+185,Yojimbo,1961,110,Not Rated,8.2,93,127777,
+186,Z,1969,127,M/PG,8.2,86,30478,0.08
+187,The Treasure of the Sierra Madre,1947,126,Passed,8.2,98,129615,5.01
+188,Drishyam,2015,163,Not Rated,8.2,,90486,0.74
+189,Miracle in Cell No. 7,2019,132,TV-14,8.2,,52995,
+190,Zindagi Na Milegi Dobara,2011,155,Not Rated,8.2,,82970,3.11
+191,Swades,2004,189,Not Rated,8.2,,94918,1.22
+192,Andhadhun,2018,139,Not Rated,8.2,,98812,1.37
+193,Children of Heaven,1997,89,PG,8.2,77,78143,0.93
+194,To Be or Not to Be,1942,99,Passed,8.2,86,40794,
+195,Pather Panchali,1955,125,Not Rated,8.2,,36191,0.54
+196,The Kid,1921,68,Passed,8.2,,131329,5.45
+197,K.G.F: Chapter 1,2018,156,Not Rated,8.2,,93651,
+198,Vikram Vedha,2017,147,Not Rated,8.2,,48735,
+199,Baahubali 2: The Conclusion,2017,167,Not Rated,8.2,,109142,20.19
+200,Sherlock Jr.,1924,45,Passed,8.2,,53995,0.98
+201,Dersu Uzala,1975,142,G,8.2,,32443,
+202,My Father and My Son,2005,112,Not Rated,8.2,,89552,
+203,Uri: The Surgical Strike,2019,138,Not Rated,8.2,,69018,4.19
+204,Umberto D.,1952,89,Not Rated,8.2,92,27284,0.07
+205,Rangasthalam 1985,2018,170,Not Rated,8.2,,26615,3.51
+206,Bhaag Milkha Bhaag,2013,186,Not Rated,8.2,,70602,1.63
+207,Paan Singh Tomar,2012,135,Not Rated,8.2,,37331,0.04
+208,The Deer Hunter,1978,183,R,8.1,86,351526,48.98
+209,Hacksaw Ridge,2016,139,R,8.1,71,566098,67.21
+210,The Exorcist,1973,122,R,8.1,81,430951,232.91
+211,Prisoners,2013,153,R,8.1,70,768868,61.0
+212,Stand by Me,1986,89,R,8.1,75,425847,52.29
+213,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,PG-13,8.1,63,1172972,305.41
+214,Gone Girl,2014,149,R,8.1,79,1028381,167.77
+215,Jaws,1975,124,PG,8.1,87,639019,260.0
+216,Mad Max: Fury Road,2015,120,R,8.1,90,1047377,154.06
+217,Harry Potter and the Deathly Hallows: Part 2,2011,130,PG-13,8.1,85,916381,381.01
+218,The Grand Budapest Hotel,2014,99,R,8.1,88,856931,59.1
+219,The Terminator,1984,107,R,8.1,84,899246,38.4
+220,Blade Runner,1982,117,R,8.1,84,799750,32.87
+221,Ford v Ferrari,2019,152,PG-13,8.1,81,435711,117.62
+222,Catch Me If You Can,2002,141,PG-13,8.1,75,1046762,164.62
+223,Fargo,1996,98,R,8.1,86,702290,24.61
+224,The Big Lebowski,1998,117,R,8.1,71,837721,17.5
+225,The Handmaiden,2016,145,Not Rated,8.1,85,162293,2.01
+226,Before Sunrise,1995,101,R,8.1,77,327149,5.54
+227,Ratatouille,2007,111,G,8.1,96,786603,206.45
+228,The Help,2011,146,PG-13,8.1,62,479163,169.71
+229,Spotlight,2015,129,R,8.1,93,488959,45.06
+230,Dead Poets Society,1989,128,PG,8.1,79,521152,95.86
+231,Rocky,1976,120,PG,8.1,70,609041,117.24
+232,The Wizard of Oz,1939,102,PG,8.1,92,416255,2.08
+233,Into the Wild,2007,148,R,8.1,73,642500,18.35
+234,Memories of Murder,2003,132,Not Rated,8.1,82,202580,0.01
+235,"Three Billboards Outside Ebbing, Missouri",2017,115,R,8.1,88,535515,54.51
+236,Trainspotting,1996,93,R,8.1,83,709009,16.5
+237,Rush,2013,123,R,8.1,74,498815,26.95
+238,Inside Out,2015,95,PG,8.1,94,752832,356.46
+239,Platoon,1986,120,R,8.1,92,428256,138.53
+240,Logan,2017,137,R,8.1,77,802951,226.28
+241,The Man Who Shot Liberty Valance,1962,123,Approved,8.1,94,80026,
+242,"Monsters, Inc.",2001,92,G,8.1,79,948373,289.92
+243,The Sound of Music,1965,172,G,8.1,63,248976,163.21
+244,Room,2015,118,R,8.1,86,437958,14.68
+245,In the Mood for Love,2000,98,PG,8.1,87,160082,2.73
+246,Warrior,2011,140,PG-13,8.1,71,487204,13.66
+247,How to Train Your Dragon,2010,98,PG,8.1,75,774717,217.58
+248,Portrait of a Lady on Fire,2019,122,R,8.1,95,102304,3.76
+249,"Lock, Stock and Two Smoking Barrels",1998,107,R,8.1,66,602092,3.9
+250,12 Years a Slave,2013,134,R,8.1,96,724402,56.67
+251,La haine,1995,98,Not Rated,8.1,,186804,0.31
+252,Before Sunset,2004,80,R,8.1,91,278928,5.82
+253,Raging Bull,1980,129,R,8.1,90,368699,23.38
+254,Gran Torino,2008,116,R,8.1,72,797886,148.1
+255,My Neighbor Totoro,1988,86,G,8.1,86,361046,1.11
+256,Barry Lyndon,1975,185,PG,8.1,89,176821,
+257,Million Dollar Baby,2004,132,PG-13,8.1,86,707040,100.49
+258,The Iron Giant,1999,86,PG,8.1,85,215611,23.16
+259,"Paris, Texas",1984,145,R,8.1,81,113036,2.18
+260,Stalker,1979,162,Not Rated,8.1,85,140293,0.23
+261,Wild Tales,2014,122,R,8.1,77,209152,3.11
+262,The Third Man,1949,93,Approved,8.1,97,177574,0.45
+263,Network,1976,121,R,8.1,83,165587,
+264,Ben-Hur,1959,212,G,8.1,90,247783,74.7
+265,Cool Hand Luke,1967,127,GP,8.1,92,184479,16.22
+266,Amores Perros,2000,154,R,8.1,83,248097,5.38
+267,The Bridge on the River Kwai,1957,161,PG,8.1,87,228323,44.91
+268,In the Name of the Father,1993,133,R,8.1,84,182388,25.01
+269,Hachi: A Dog's Tale,2009,93,G,8.1,,300400,
+270,A Silent Voice: The Movie,2016,130,Not Rated,8.1,78,93539,
+271,Persona,1966,83,Not Rated,8.1,86,126424,
+272,The Seventh Seal,1957,96,Not Rated,8.1,88,192895,
+273,The Grapes of Wrath,1940,129,Passed,8.1,96,97546,0.06
+274,On the Waterfront,1954,108,Approved,8.1,91,160577,9.6
+275,Rebecca,1940,130,Approved,8.1,86,142829,4.36
+276,Hotel Rwanda,2004,121,PG-13,8.1,79,365419,23.53
+277,It Happened One Night,1934,105,Passed,8.1,87,108880,4.36
+278,Tokyo Story,1953,136,Not Rated,8.1,100,65626,
+279,OMG: Oh My God!,2012,125,Not Rated,8.1,,62732,0.92
+280,Neon Genesis Evangelion: The End of Evangelion,1997,87,TV-MA,8.1,,60382,
+281,Paper Moon,1973,102,PG,8.1,77,50686,30.93
+282,The Best Years of Our Lives,1946,170,Approved,8.1,93,68286,23.65
+283,The Celebration,1998,105,R,8.1,82,91242,1.65
+284,PK,2014,153,Not Rated,8.1,,195523,10.62
+285,The 400 Blows,1959,99,Not Rated,8.1,,124176,
+286,Mary and Max,2009,92,Not Rated,8.1,,182943,
+287,All Quiet on the Western Front,1930,152,Passed,8.1,91,66143,3.27
+288,Three Colors: Red,1994,99,R,8.1,100,107539,4.04
+289,The Red Shoes,1948,135,Not Rated,8.1,,37540,10.9
+290,Farewell My Concubine,1993,171,R,8.1,83,31565,5.22
+291,Bajrangi Bhaijaan,2015,163,Not Rated,8.1,,93667,8.18
+292,Wild Strawberries,1957,91,Not Rated,8.1,88,111782,
+293,A Woman Under the Influence,1974,155,R,8.1,88,27413,13.34
+294,Fanny and Alexander,1982,188,R,8.1,100,66008,4.97
+295,The Battle of Algiers,1966,121,Not Rated,8.1,96,63547,0.06
+296,Andrei Rublev,1966,205,R,8.1,,55798,0.1
+297,Yi Yi: A One and a Two...,2000,173,Not Rated,8.1,94,27022,1.14
+298,Underground,1995,167,Not Rated,8.1,79,60091,0.17
+299,The Message,1976,177,PG,8.1,,49608,
+300,Lagaan: Once Upon a Time in India,2001,224,PG,8.1,84,118102,0.91
+301,Mr. Smith Goes to Washington,1939,129,Passed,8.1,73,118934,9.6
+302,Inherit the Wind,1960,128,Passed,8.1,75,31899,
+303,Winter Sleep,2014,196,Not Rated,8.1,88,53879,0.17
+304,Diabolique,1955,117,Not Rated,8.1,,67992,1.09
+305,The Virgin Spring,1960,89,Not Rated,8.1,,30801,1.53
+306,The General,1926,78,Passed,8.1,,95441,1.03
+307,The Hidden Fortress,1958,126,Not Rated,8.1,89,41043,
+308,Sunrise,1927,94,Passed,8.1,95,52837,0.54
+309,The Passion of Joan of Arc,1928,114,Passed,8.1,98,58453,0.02
+310,Wolf Children,2012,117,PG,8.1,71,47696,
+311,Dil Chahta Hai,2001,183,Not Rated,8.1,,74464,0.3
+312,Autumn Sonata,1978,99,PG,8.1,,36542,
+313,Barfi!,2012,151,Not Rated,8.1,,84818,2.8
+314,White Heat,1949,114,Not Rated,8.1,89,34762,
+315,A Wednesday,2008,104,Not Rated,8.1,,80820,
+316,Throne of Blood,1957,110,Not Rated,8.1,,54476,
+317,Masaan,2015,109,,8.1,,29828,
+318,Ace in the Hole,1951,111,Approved,8.1,72,38090,3.97
+319,Munna Bhai M.B.B.S.,2003,156,Not Rated,8.1,,85722,
+320,Kahaani,2012,122,Not Rated,8.1,,64518,1.04
+321,The Gold Rush,1925,95,Passed,8.1,,115593,5.45
+322,Nights of Cabiria,1957,110,Not Rated,8.1,,50920,0.75
+323,Raise the Red Lantern,1991,125,PG,8.1,,34381,2.6
+324,Rang De Basanti,2006,167,Not Rated,8.1,,121146,2.2
+325,Hera Pheri,2000,156,Not Rated,8.1,,70489,
+326,Jean de Florette,1986,120,PG,8.1,,26923,4.94
+327,Time of the Gypsies,1988,142,R,8.1,,32013,0.28
+328,The Grand Illusion,1937,113,Not Rated,8.1,,38058,0.17
+329,Udaan,2010,134,Not Rated,8.1,,46262,0.01
+330,Talvar,2015,132,Not Rated,8.1,,36975,0.34
+331,Rififi,1955,118,Not Rated,8.1,97,36008,0.06
+332,Pink,2016,136,Not Rated,8.1,,46961,1.24
+333,Tangerines,2013,87,Not Rated,8.1,73,47949,0.14
+334,Sholay,1975,162,Not Rated,8.1,,57663,
+335,Chak De! India,2007,153,Not Rated,8.1,68,83023,1.11
+336,Article 15,2019,130,Not Rated,8.1,,35678,
+337,The Bandit,1996,128,Not Rated,8.1,,71274,
+338,Sarfarosh,1999,174,Not Rated,8.1,,26433,
+339,The Circus,1928,72,Passed,8.1,90,35242,
+340,Queen,2013,146,Not Rated,8.1,,67473,1.43
+341,Her Sey Çok Güzel Olacak,1998,107,,8.1,,26726,
+342,Black,2005,122,Not Rated,8.1,,35624,0.73
+343,Anand,1971,122,Not Rated,8.1,,34724,
+344,Dune,2021,155,PG-13,8.0,74,714381,108.33
+345,Blade Runner 2049,2017,164,R,8.0,81,622775,92.05
+346,Sin City,2005,124,R,8.0,74,783870,74.1
+347,Black Swan,2010,108,R,8.0,79,799325,106.95
+348,Guardians of the Galaxy,2014,121,PG-13,8.0,76,1242948,333.18
+349,La La Land,2016,128,PG-13,8.0,94,633317,151.1
+350,The Princess Bride,1987,98,PG,8.0,77,440433,30.86
+351,Donnie Darko,2001,113,R,8.0,88,829317,1.48
+352,Blood Diamond,2006,143,R,8.0,64,571231,57.37
+353,The Martian,2015,144,PG-13,8.0,80,893726,228.43
+354,Her,2013,126,R,8.0,91,646722,25.57
+355,Zootopia,2016,108,PG,8.0,78,526279,341.27
+356,Deadpool,2016,108,R,8.0,65,1087114,363.07
+357,Rio Bravo,1959,141,Passed,8.0,93,66241,12.54
+358,The Imitation Game,2014,114,PG-13,8.0,71,802115,91.13
+359,The Avengers,2012,143,PG-13,8.0,69,1432277,623.28
+360,The Revenant,2015,156,R,8.0,76,843123,183.64
+361,CODA,2021,111,PG-13,8.0,72,152485,
+362,The Incredibles,2004,115,PG,8.0,90,778017,261.44
+363,Casino Royale,2006,144,PG-13,8.0,80,678573,167.45
+364,Dances with Wolves,1990,181,PG-13,8.0,72,281366,184.21
+365,Perfect Blue,1997,81,R,8.0,67,87546,0.78
+366,Aladdin,1992,90,G,8.0,86,447670,217.35
+367,Young Frankenstein,1974,106,PG,8.0,83,164701,86.3
+368,Rosemary's Baby,1968,137,Approved,8.0,96,226877,
+369,Kill Bill: Vol. 2,2004,137,R,8.0,83,784153,66.21
+370,Soul,2020,100,PG,8.0,83,356356,
+371,The Graduate,1967,106,PG,8.0,83,283181,104.95
+372,Groundhog Day,1993,101,PG,8.0,72,661559,70.91
+373,12 Monkeys,1995,129,R,8.0,74,634796,57.14
+374,Rain Man,1988,133,R,8.0,65,533354,178.8
+375,Magnolia,1999,188,R,8.0,78,322386,22.46
+376,Scent of a Woman,1992,156,R,8.0,59,316887,63.9
+377,Dog Day Afternoon,1975,125,R,8.0,86,267485,50.0
+378,Big Fish,2003,125,PG-13,8.0,58,451448,66.26
+379,Beauty and the Beast,1991,84,G,8.0,95,469774,218.97
+380,JFK,1991,189,R,8.0,72,165028,70.41
+381,Planet of the Apes,1968,112,G,8.0,79,187544,33.4
+382,Lion,2016,118,PG-13,8.0,69,245140,51.74
+383,The Invisible Guest,2016,106,TV-MA,8.0,,186199,
+384,The Pursuit of Happyness,2006,117,PG-13,8.0,64,541590,163.57
+385,Chungking Express,1994,102,PG-13,8.0,78,90505,0.6
+386,The King's Speech,2010,118,R,8.0,88,697002,138.8
+387,Dogville,2003,178,R,8.0,61,154880,1.53
+388,Slumdog Millionaire,2008,120,R,8.0,84,864785,141.32
+389,Akira,1988,124,R,8.0,67,197362,0.55
+390,Do the Right Thing,1989,120,R,8.0,93,108619,27.55
+391,The Bourne Ultimatum,2007,115,PG-13,8.0,85,648995,227.47
+392,Annie Hall,1977,93,PG,8.0,92,272652,39.2
+393,The Hustler,1961,134,Not Rated,8.0,90,85063,8.28
+394,Butch Cassidy and the Sundance Kid,1969,110,PG,8.0,66,222797,102.31
+395,Sling Blade,1996,135,R,8.0,84,96945,24.48
+396,The Last Picture Show,1971,118,R,8.0,93,50799,29.13
+397,Life of Brian,1979,94,R,8.0,77,414073,20.05
+398,8½,1963,138,Not Rated,8.0,93,122485,0.05
+399,Papillon,1973,151,R,8.0,58,135588,53.27
+400,Ip Man,2008,106,R,8.0,59,230342,
+401,Roman Holiday,1953,118,Passed,8.0,78,144195,
+402,The Night of the Hunter,1955,92,Not Rated,8.0,97,94017,0.65
+403,What Ever Happened to Baby Jane?,1962,134,Passed,8.0,75,59677,4.05
+404,Solaris,1972,167,PG,8.0,93,95681,
+405,Castle in the Sky,1986,125,PG,8.0,78,174922,
+406,Fiddler on the Roof,1971,181,G,8.0,67,46097,80.5
+407,Fitzcarraldo,1982,158,PG,8.0,,37177,
+408,Nausicaä of the Valley of the Wind,1984,117,PG,8.0,86,176532,0.5
+409,Cinderella Man,2005,144,PG-13,8.0,69,194027,61.65
+410,The Maltese Falcon,1941,100,Passed,8.0,97,163704,2.11
+411,Mommy,2014,139,R,8.0,74,60085,3.49
+412,The Straight Story,1999,112,G,8.0,86,94577,6.2
+413,Pink Floyd: The Wall,1982,95,R,8.0,47,83760,22.24
+414,Anatomy of a Murder,1959,161,Not Rated,8.0,95,69283,11.9
+415,Gandhi,1982,191,PG,8.0,79,237446,52.77
+416,Infernal Affairs,2002,101,R,8.0,75,128796,0.17
+417,La Dolce Vita,1960,174,Not Rated,8.0,95,76343,19.52
+418,High Noon,1952,85,PG,8.0,89,108068,9.45
+419,Who's Afraid of Virginia Woolf?,1966,131,Not Rated,8.0,75,78304,
+420,Mirror,1975,107,Not Rated,8.0,82,50167,0.18
+421,Wolfwalkers,2020,103,PG,8.0,87,36423,
+422,The Cabinet of Dr. Caligari,1920,67,Not Rated,8.0,,67606,
+423,Le Samouraï,1967,101,GP,8.0,,54648,0.04
+424,Touch of Evil,1958,95,PG-13,8.0,99,107757,2.24
+425,Secrets & Lies,1996,136,R,8.0,92,45828,13.42
+426,Out of the Past,1947,97,Approved,8.0,85,39606,
+427,The Tale of The Princess Kaguya,2013,137,PG,8.0,89,50995,1.51
+428,The Legend of 1900,1998,169,R,8.0,58,67528,0.26
+429,Song of the Sea,2014,93,PG,8.0,85,61499,0.86
+430,My Sassy Girl,2001,137,Not Rated,8.0,,49682,
+431,Elite Squad,2007,115,R,8.0,33,107775,0.01
+432,The Diving Bell and the Butterfly,2007,112,PG-13,8.0,92,109390,5.99
+433,The Sea Inside,2004,126,PG-13,8.0,74,83984,2.09
+434,Baahubali: The Beginning,2015,159,Not Rated,8.0,,131937,6.74
+435,Brief Encounter,1945,86,Not Rated,8.0,92,42673,
+436,Stalag 17,1953,120,Not Rated,8.0,84,57524,
+437,Nobody Knows,2004,141,PG-13,8.0,88,29995,0.68
+438,Dilwale Dulhania Le Jayenge,1995,181,Not Rated,8.0,,74206,
+439,Persepolis,2007,96,PG-13,8.0,90,98046,4.45
+440,Sweet Smell of Success,1957,96,Approved,8.0,100,34494,
+441,"Spring, Summer, Fall, Winter... and Spring",2003,103,R,8.0,85,85396,2.38
+442,Sleuth,1972,138,PG,8.0,,49235,4.08
+443,"Quo Vadis, Aida?",2020,101,,8.0,97,36676,
+444,Kind Hearts and Coronets,1949,106,Not Rated,8.0,,38844,
+445,"Black Cat, White Cat",1998,127,R,8.0,73,55483,0.35
+446,Ivan's Childhood,1962,95,Not Rated,8.0,,38702,
+447,Cries & Whispers,1972,91,R,8.0,,35962,1.74
+448,"Goodbye, Children",1987,104,PG,8.0,88,35377,4.54
+449,La strada,1954,108,Not Rated,8.0,,65404,
+450,The Wild Pear Tree,2018,188,,8.0,86,26241,0.03
+451,The Exterminating Angel,1962,95,Not Rated,8.0,,34616,
+452,The Shop Around the Corner,1940,99,Not Rated,8.0,96,35971,0.2
+453,Departures,2008,130,PG-13,8.0,68,53975,1.5
+454,Sanjuro,1962,96,Not Rated,8.0,,40022,
+455,Haider,2014,160,Not Rated,8.0,,56517,0.9
+456,Elite Squad 2: The Enemy Within,2010,115,Not Rated,8.0,71,85351,0.1
+457,"Rome, Open City",1945,103,Not Rated,8.0,,28085,
+458,G.O.R.A.,2004,127,,8.0,,65246,
+459,Central Station,1998,110,R,8.0,80,41315,5.6
+460,Tae Guk Gi: The Brotherhood of War,2004,140,R,8.0,64,40612,1.11
+461,Andaz Apna Apna,1994,160,Not Rated,8.0,,54523,
+462,M.S. Dhoni: The Untold Story,2016,184,Not Rated,8.0,,64768,1.78
+463,Winter Light,1963,81,Not Rated,8.0,,26319,
+464,"Carry On, Munna Bhai",2006,144,Not Rated,8.0,,48589,2.22
+465,Nefes: Vatan Sagolsun,2009,128,,8.0,,34640,
+466,Vizontele,2001,110,,8.0,,37983,
+467,Special 26,2013,144,Not Rated,8.0,,57960,1.08
+468,Guardians of the Galaxy Vol. 3,2023,150,PG-13,7.9,64,313351,
+469,Mission: Impossible - Dead Reckoning Part One,2023,163,PG-13,7.9,81,137423,
+470,Arrival,2016,116,PG-13,7.9,81,735352,100.55
+471,Titanic,1997,194,PG-13,7.9,75,1245982,659.33
+472,Children of Men,2006,109,R,7.9,84,517051,35.55
+473,The Blues Brothers,1980,133,R,7.9,60,208337,57.23
+474,Knives Out,2019,130,PG-13,7.9,82,739970,165.36
+475,Almost Famous,2000,122,R,7.9,90,286841,32.53
+476,Zack Snyder's Justice League,2021,242,R,7.9,54,423589,
+477,The Nightmare Before Christmas,1993,76,PG,7.9,82,356492,75.08
+478,Edge of Tomorrow,2014,113,PG-13,7.9,71,712336,100.21
+479,Avatar,2009,162,PG-13,7.9,83,1360242,760.51
+480,Harry Potter and the Prisoner of Azkaban,2004,142,PG,7.9,82,666370,249.36
+481,Mulholland Drive,2001,147,R,7.9,86,372378,7.22
+482,True Romance,1993,119,R,7.9,59,236250,12.28
+483,Boogie Nights,1997,155,R,7.9,86,275707,26.4
+484,Star Trek,2009,127,PG-13,7.9,82,614016,257.73
+485,Iron Man,2008,126,PG-13,7.9,79,1097203,318.41
+486,Bohemian Rhapsody,2018,134,PG-13,7.9,49,567539,216.43
+487,Shrek,2001,90,PG,7.9,84,710388,267.67
+488,The Perks of Being a Wallflower,2012,103,PG-13,7.9,67,534204,17.74
+489,Jojo Rabbit,2019,108,PG-13,7.9,58,420727,33.37
+490,Thor: Ragnarok,2017,130,PG-13,7.9,74,791298,315.06
+491,Fantastic Mr. Fox,2009,87,PG,7.9,83,255794,21.0
+492,E.T.,1982,115,PG,7.9,92,426040,435.11
+493,The Big Sleep,1946,114,Passed,7.9,86,88729,6.54
+494,Shaun of the Dead,2004,99,R,7.9,76,578626,13.54
+495,Mystic River,2003,138,R,7.9,84,472897,90.14
+496,In Bruges,2008,107,R,7.9,67,450277,7.76
+497,Edward Scissorhands,1990,105,PG-13,7.9,74,509102,56.36
+498,District 9,2009,112,R,7.9,81,702071,115.65
+499,Dallas Buyers Club,2013,117,R,7.9,77,506907,27.3
+500,Wonder,2017,113,PG,7.9,66,173037,132.42
+501,Marriage Story,2019,137,R,7.9,94,331879,2.0
+502,Before Midnight,2013,109,R,7.9,94,167273,8.11
+503,This Is Spinal Tap,1984,82,R,7.9,92,144071,4.74
+504,X-Men: Days of Future Past,2014,132,PG-13,7.9,75,731906,233.92
+505,Strangers on a Train,1951,101,PG,7.9,88,138261,7.63
+506,Spartacus,1960,197,PG-13,7.9,87,139991,30.0
+507,In the Heat of the Night,1967,110,Approved,7.9,76,80939,24.38
+508,Brazil,1985,132,R,7.9,84,207144,9.93
+509,Life of Pi,2012,127,PG,7.9,79,652392,124.99
+510,Boyhood,2014,165,R,7.9,100,362577,25.38
+511,Toy Story 2,1999,92,G,7.9,88,604080,245.85
+512,Nosferatu,1922,94,Not Rated,7.9,,102073,
+513,The Ten Commandments,1956,220,G,7.9,,75031,93.74
+514,A Fistful of Dollars,1964,99,R,7.9,65,226406,14.5
+515,Carlito's Way,1993,144,R,7.9,66,227056,36.95
+516,Let the Right One In,2008,114,R,7.9,82,222826,2.12
+517,Ghost in the Shell,1995,83,TV-MA,7.9,76,151075,0.52
+518,"Crouching Tiger, Hidden Dragon",2000,120,PG-13,7.9,94,277489,128.08
+519,The Wrestler,2008,109,R,7.9,80,315186,26.24
+520,Being There,1979,130,PG,7.9,83,75730,30.18
+521,The Wild Bunch,1969,135,R,7.9,98,88451,12.06
+522,Bound by Honor,1993,180,R,7.9,47,33102,4.5
+523,Charade,1963,113,Passed,7.9,83,82490,13.47
+524,Doctor Zhivago,1965,197,PG-13,7.9,69,80257,111.72
+525,A Streetcar Named Desire,1951,122,PG,7.9,97,112194,8.0
+526,All the President's Men,1976,138,PG,7.9,84,122296,70.6
+527,A Christmas Story,1983,93,PG,7.9,77,161682,20.61
+528,Sing Street,2016,106,PG-13,7.9,79,98364,3.24
+529,The Killing,1956,84,Approved,7.9,91,94414,
+530,Notorious,1946,102,Not Rated,7.9,100,104823,10.46
+531,The Raid 2,2014,150,R,7.9,71,128660,2.63
+532,Wings of Desire,1987,128,PG-13,7.9,79,74367,3.33
+533,The Artist,2011,100,PG-13,7.9,89,246048,44.67
+534,Harold and Maude,1971,91,PG,7.9,62,80276,
+535,Shoplifters,2018,121,R,7.9,93,82379,3.31
+536,Arsenic and Old Lace,1944,118,Not Rated,7.9,,73391,
+537,Dancer in the Dark,2000,140,R,7.9,63,114138,4.18
+538,The Manchurian Candidate,1962,126,PG-13,7.9,94,78013,
+539,Short Term 12,2013,96,R,7.9,82,90314,1.01
+540,Hero,2002,120,PG-13,7.9,85,185473,53.71
+541,Togo,2019,113,PG,7.9,69,53028,
+542,King Kong,1933,100,Passed,7.9,92,88839,10.0
+543,Three Colors: Blue,1993,94,R,7.9,87,107510,1.32
+544,Rope,1948,80,Approved,7.9,73,149625,
+545,Once Were Warriors,1994,102,R,7.9,77,35980,2.2
+546,Patton,1970,172,GP,7.9,86,106013,61.7
+547,The Lion in Winter,1968,134,PG,7.9,,33120,22.28
+548,The Leopard,1963,186,PG,7.9,100,27846,
+549,Amour,2012,127,PG-13,7.9,95,103803,6.74
+550,The Philadelphia Story,1940,112,Not Rated,7.9,96,72189,
+551,Laura,1944,88,Passed,7.9,,49657,4.36
+552,The Sacrifice,1986,149,PG,7.9,,30076,0.3
+553,In a Lonely Place,1950,94,Not Rated,7.9,,33827,
+554,Head-On,2004,121,R,7.9,78,56408,
+555,3-Iron,2004,88,R,7.9,72,57086,0.24
+556,Talk to Her,2002,112,R,7.9,86,115738,9.36
+557,Cat on a Hot Tin Roof,1958,108,Not Rated,7.9,84,52168,17.57
+558,A Taxi Driver,2017,137,Not Rated,7.9,69,28605,1.53
+559,My Name Is Khan,2010,165,PG-13,7.9,50,112270,4.02
+560,Harvey,1950,104,Approved,7.9,,57250,
+561,The Adventures of Robin Hood,1938,102,PG,7.9,97,53345,3.98
+562,The Conformist,1970,113,R,7.9,100,32619,0.54
+563,Kal Ho Naa Ho,2003,186,Not Rated,7.9,54,72852,1.79
+564,The Thin Man,1934,91,TV-PG,7.9,86,31676,
+565,Mildred Pierce,1945,111,Approved,7.9,88,27753,
+566,Kagemusha,1980,162,PG,7.9,84,37240,
+567,The Big Heat,1953,89,Passed,7.9,,28113,
+568,Cléo from 5 to 7,1962,90,Not Rated,7.9,87,25471,
+569,In Cold Blood,1967,134,R,7.9,89,28078,
+570,Nostalghia,1983,125,Not Rated,7.9,,29031,0.01
+571,About Elly,2009,119,TV-PG,7.9,87,55871,0.11
+572,The Red Circle,1970,140,Not Rated,7.9,92,27123,0.37
+573,I Remember,1973,123,R,7.9,,45645,0.58
+574,"4 Months, 3 Weeks and 2 Days",2007,113,Not Rated,7.9,97,62345,1.19
+575,No Man's Land,2001,98,R,7.9,84,48198,1.06
+576,The Way He Looks,2014,96,Not Rated,7.9,71,26992,0.1
+577,Miracle on 34th Street,1947,96,Not Rated,7.9,88,51521,2.65
+578,Hiroshima Mon Amour,1959,90,Not Rated,7.9,,34652,0.09
+579,Gully Boy,2019,154,Not Rated,7.9,65,42099,5.57
+580,Battleship Potemkin,1925,66,Not Rated,7.9,97,60111,0.05
+581,The Lost Weekend,1945,101,Passed,7.9,,39119,9.46
+582,Nine Queens,2000,114,R,7.9,80,55470,1.22
+583,Elevator to the Gallows,1958,91,Not Rated,7.9,94,27625,0.11
+584,The Return,2003,110,Not Rated,7.9,82,46673,0.5
+585,Through a Glass Darkly,1961,90,Not Rated,7.9,84,26689,
+586,Dev.D,2009,144,Not Rated,7.9,,31686,0.01
+587,Jab We Met,2007,138,Not Rated,7.9,,56482,0.41
+588,Sullivan's Travels,1941,90,Passed,7.9,,27856,
+589,Beauty and the Beast,1946,93,Not Rated,7.9,92,27481,0.3
+590,The Rules of the Game,1939,110,Not Rated,7.9,99,30513,
+591,C.R.A.Z.Y.,2005,129,Not Rated,7.9,81,33759,
+592,Super 30,2019,154,Not Rated,7.9,,34919,2.27
+593,Badhaai Ho,2018,124,Not Rated,7.9,,36540,
+594,Pad Man,2018,140,PG-13,7.9,,27702,1.66
+595,Airlift,2016,130,Not Rated,7.9,,58157,
+596,Baby,2015,159,Not Rated,7.9,,59209,
+597,The Batman,2022,176,PG-13,7.8,72,729027,369.35
+598,John Wick: Chapter 4,2023,169,R,7.8,78,272377,
+599,The Big Short,2015,130,R,7.8,81,461463,70.26
+600,Everything Everywhere All at Once,2022,139,R,7.8,81,477713,72.86
+601,Tombstone,1993,130,R,7.8,50,159395,56.51
+602,Pride & Prejudice,2005,129,PG,7.8,82,316411,38.41
+603,The Notebook,2004,123,PG-13,7.8,53,597919,81.0
+604,Get Out,2017,104,R,7.8,85,655587,176.04
+605,Ferris Bueller's Day Off,1986,103,PG-13,7.8,61,375746,70.14
+606,Puss in Boots: The Last Wish,2022,102,PG,7.8,73,154065,168.46
+607,Drive,2011,100,R,7.8,78,680730,35.06
+608,The Gentlemen,2019,113,R,7.8,51,370137,36.47
+609,Ghostbusters,1984,105,PG,7.8,71,431490,238.63
+610,Little Women,2019,135,PG,7.8,91,228175,108.1
+611,Dunkirk,2017,106,PG-13,7.8,94,710931,188.37
+612,Call Me by Your Name,2017,132,R,7.8,94,296926,18.1
+613,The Breakfast Club,1985,97,R,7.8,66,422845,45.88
+614,Rogue One: A Star Wars Story,2016,133,PG-13,7.8,65,666708,532.18
+615,The Irishman,2019,209,R,7.8,94,412659,7.0
+616,The Social Network,2010,120,PG-13,7.8,95,735179,96.96
+617,American Gangster,2007,157,R,7.8,76,441745,130.16
+618,RRR,2022,187,Not Rated,7.8,83,156469,14.5
+619,All Quiet on the Western Front,2022,148,R,7.8,76,221276,
+620,The Hateful Eight,2015,168,R,7.8,68,635844,54.12
+621,Apocalypto,2006,139,R,7.8,68,323447,50.87
+622,The Worst Person in the World,2021,128,R,7.8,90,85573,
+623,Remember the Titans,2000,113,PG,7.8,48,225663,115.65
+624,About Time,2013,123,R,7.8,55,371368,15.32
+625,The Hobbit: An Unexpected Journey,2012,169,PG-13,7.8,58,852518,303.0
+626,Cast Away,2000,143,PG-13,7.8,73,619557,233.63
+627,Frankenstein,1931,70,Passed,7.8,91,76647,
+628,Hot Fuzz,2007,121,R,7.8,81,523674,23.64
+629,Willy Wonka & the Chocolate Factory,1971,100,G,7.8,67,213530,4.0
+630,The Girl with the Dragon Tattoo,2011,158,R,7.8,71,480748,102.52
+631,Taken,2008,90,PG-13,7.8,51,620557,145.0
+632,Predator,1987,107,R,7.8,47,440720,59.74
+633,Star Wars: Episode VII - The Force Awakens,2015,138,PG-13,7.8,80,956096,936.66
+634,Atonement,2007,123,R,7.8,85,291749,50.93
+635,Hidden Figures,2016,127,PG,7.8,74,245562,169.61
+636,Nightcrawler,2014,117,R,7.8,76,582027,32.38
+637,A Bronx Tale,1993,121,R,7.8,80,153130,17.27
+638,Little Miss Sunshine,2006,101,R,7.8,80,503553,59.89
+639,Manchester by the Sea,2016,137,R,7.8,96,299665,47.7
+640,The Sandlot,1993,101,PG,7.8,55,98848,32.42
+641,The Curious Case of Benjamin Button,2008,166,PG-13,7.8,70,677320,127.51
+642,The Bourne Identity,2002,119,PG-13,7.8,68,564506,121.66
+643,The Remains of the Day,1993,134,PG,7.8,86,80325,22.95
+644,Skyfall,2012,143,PG-13,7.8,81,716680,304.36
+645,Close,2022,104,PG-13,7.8,81,27827,
+646,The Fugitive,1993,130,PG-13,7.8,87,309039,183.88
+647,Boyz n the Hood,1991,112,R,7.8,76,148926,57.5
+648,The Last Samurai,2003,154,R,7.8,55,458160,111.11
+649,The Untouchables,1987,119,R,7.8,79,322877,76.27
+650,Captain America: Civil War,2016,147,PG-13,7.8,75,825769,408.08
+651,The Hobbit: The Desolation of Smaug,2013,161,PG-13,7.8,66,686836,258.37
+652,Captain Fantastic,2016,118,R,7.8,72,228603,5.88
+653,Misery,1990,107,R,7.8,75,225138,61.28
+654,Mary Poppins,1964,139,G,7.8,88,180591,102.27
+655,I Saw the Devil,2010,144,Not Rated,7.8,67,140145,0.13
+656,Captain Phillips,2013,134,PG-13,7.8,82,480516,107.1
+657,Moonrise Kingdom,2012,94,PG-13,7.8,84,361268,45.51
+658,Big Hero 6,2014,102,PG,7.8,74,485354,222.53
+659,Back to the Future Part II,1989,108,PG,7.8,57,556911,118.5
+660,Captain America: The Winter Soldier,2014,136,PG-13,7.8,70,878784,259.77
+661,Night of the Living Dead,1968,96,Not Rated,7.8,89,134744,0.09
+662,Midnight Cowboy,1969,113,R,7.8,79,116637,44.79
+663,The Day of the Jackal,1973,143,PG,7.8,80,43355,16.06
+664,Walk the Line,2005,136,PG-13,7.8,72,260153,119.52
+665,The Fall,2006,117,R,7.8,64,115048,2.28
+666,The Insider,1999,157,R,7.8,84,176663,28.97
+667,Moon,2009,97,R,7.8,67,369838,5.01
+668,The Fighter,2010,116,R,7.8,79,381245,93.62
+669,Straight Outta Compton,2015,147,R,7.8,72,212296,161.2
+670,The King of Comedy,1982,109,PG,7.8,73,112478,2.5
+671,Isle of Dogs,2018,101,PG-13,7.8,82,182985,32.02
+672,The Man from Earth,2007,87,Not Rated,7.8,,194890,
+673,The Holy Mountain,1973,114,16+,7.8,76,46245,0.06
+674,Serenity,2005,119,PG-13,7.8,74,302066,25.51
+675,The Girl with the Dragon Tattoo,2009,152,R,7.8,76,220728,10.1
+676,Changeling,2008,141,R,7.8,63,261726,35.74
+677,Hunt for the Wilderpeople,2016,101,PG-13,7.8,81,137073,5.2
+678,Glory,1989,122,R,7.8,78,140822,26.83
+679,Thirteen Lives,2022,147,PG-13,7.8,66,63521,
+680,Awakenings,1990,121,PG-13,7.8,74,152552,52.1
+681,Paddington 2,2017,103,PG,7.8,88,87278,40.44
+682,Jujutsu Kaisen 0,2021,112,PG-13,7.8,71,28177,34.54
+683,Mississippi Burning,1988,128,R,7.8,65,105975,34.6
+684,Kiki's Delivery Service,1989,103,G,7.8,85,155777,
+685,Dawn of the Dead,1978,127,Unrated,7.8,71,125386,5.1
+686,The Best Offer,2013,131,R,7.8,49,124974,0.09
+687,October Sky,1999,108,PG,7.8,71,95629,32.48
+688,The Conversation,1974,113,PG,7.8,87,117424,4.42
+689,Gaslight,1944,114,Passed,7.8,78,32143,
+690,The Searchers,1956,119,Passed,7.8,94,93873,
+691,How to Train Your Dragon 2,2014,102,PG,7.8,77,353149,177.0
+692,Ed Wood,1994,127,R,7.8,70,181113,5.89
+693,Stagecoach,1939,96,Passed,7.8,93,52092,
+694,Kramer vs. Kramer,1979,105,PG,7.8,77,151163,106.26
+695,The Outlaw Josey Wales,1976,135,PG,7.8,69,77704,31.8
+696,Manhattan,1979,96,R,7.8,83,144238,45.7
+697,My Left Foot,1989,103,R,7.8,97,77834,14.74
+698,The Right Stuff,1983,193,PG,7.8,91,63987,21.5
+699,My Fair Lady,1964,170,G,7.8,95,99285,72.0
+700,Cabaret,1972,124,PG,7.8,80,57778,42.77
+701,To Have and Have Not,1944,100,Passed,7.8,90,37076,
+702,Days of Heaven,1978,94,PG,7.8,93,60925,
+703,All That Jazz,1979,123,R,7.8,72,33962,37.82
+704,"Aguirre, the Wrath of God",1972,95,Not Rated,7.8,,60012,
+705,Letters from Iwo Jima,2006,141,R,7.8,89,167596,13.76
+706,Lilya 4-Ever,2002,109,R,7.8,83,47804,0.18
+707,The Chaser,2008,125,Not Rated,7.8,64,70329,
+708,The Day the Earth Stood Still,1951,92,G,7.8,83,84424,
+709,Once,2007,86,R,7.8,90,119545,9.44
+710,Freaks,1932,64,Not Rated,7.8,80,48823,0.63
+711,Shadow of a Doubt,1943,108,Passed,7.8,94,68556,
+712,The Killing Fields,1984,141,R,7.8,76,57876,34.7
+713,Pride,2014,119,R,7.8,79,60315,
+714,The World's Fastest Indian,2005,127,PG-13,7.8,68,57046,5.13
+715,Whisper of the Heart,1995,111,G,7.8,75,68372,
+716,The Bride of Frankenstein,1935,75,Not Rated,7.8,95,51123,4.36
+717,Breaking the Waves,1996,159,R,7.8,82,69965,4.04
+718,Loving Vincent,2017,94,PG-13,7.8,62,61403,6.74
+719,Hannah and Her Sisters,1986,107,PG-13,7.8,90,74229,40.08
+720,East of Eden,1955,118,PG,7.8,72,47712,
+721,The Umbrellas of Cherbourg,1964,91,Not Rated,7.8,86,29945,0.03
+722,Red River,1948,133,Passed,7.8,96,33166,
+723,All About My Mother,1999,101,R,7.8,87,100646,8.26
+724,Batman: Mask of the Phantasm,1993,76,PG,7.8,65,54663,5.62
+725,The White Ribbon,2009,144,R,7.8,84,76167,2.22
+726,Cowboy Bebop: The Movie,2001,115,TV-14,7.8,61,51349,1.0
+727,Ninja Scroll,1993,94,Not Rated,7.8,,39419,
+728,The Man Who Would Be King,1975,129,PG,7.8,91,50959,
+729,Land of Mine,2015,100,R,7.8,75,44110,0.44
+730,His Girl Friday,1939,92,Passed,7.8,,61569,0.3
+731,Crimes and Misdemeanors,1989,104,PG-13,7.8,77,59844,18.25
+732,Guess Who's Coming to Dinner,1967,108,Approved,7.8,63,47659,56.7
+733,A Prophet,2009,155,R,7.8,90,100828,2.08
+734,The Killer,1989,111,R,7.8,82,50046,
+735,"I, Daniel Blake",2016,100,R,7.8,78,62901,0.26
+736,Bringing Up Baby,1938,102,Passed,7.8,91,64566,
+737,The Innocents,1961,100,Not Rated,7.8,88,32072,2.62
+738,The Asphalt Jungle,1950,112,Passed,7.8,85,28879,
+739,The Chorus,2004,97,PG-13,7.8,56,65383,3.64
+740,The Lunchbox,2013,104,PG,7.8,76,59202,4.23
+741,L'Avventura,1960,144,Not Rated,7.8,,31749,
+742,Tokyo Godfathers,2003,92,PG-13,7.8,74,44017,0.13
+743,Millennium Actress,2001,87,PG,7.8,70,30470,0.19
+744,Once Upon a Time in Anatolia,2011,157,Not Rated,7.8,82,48551,0.14
+745,"Like Father, Like Son",2013,121,Not Rated,7.8,73,26987,0.28
+746,The Postman,1994,108,PG,7.8,81,38161,21.85
+747,My Life as a Zucchini,2016,70,PG-13,7.8,85,27783,0.29
+748,You Can't Take It with You,1938,126,Passed,7.8,,27067,4.66
+749,The Discreet Charm of the Bourgeoisie,1972,102,PG,7.8,93,45376,0.2
+750,Duck Soup,1933,69,Not Rated,7.8,93,61803,
+751,Vivre Sa Vie,1962,85,Not Rated,7.8,,33998,
+752,Veer-Zaara,2004,192,Not Rated,7.8,67,55586,2.92
+753,A Night at the Opera,1935,96,Passed,7.8,,34021,2.54
+754,English Vinglish,2012,134,Not Rated,7.8,,37957,1.67
+755,Knockin' on Heaven's Door,1997,87,Not Rated,7.8,,32583,0.0
+756,Vicky Donor,2012,126,Not Rated,7.8,,44700,0.17
+757,Hindi Medium,2017,132,Not Rated,7.8,,31082,
+758,The Whale,2022,117,R,7.7,60,177055,
+759,The Goonies,1985,114,PG,7.7,62,289361,61.5
+760,The Banshees of Inisherin,2022,114,R,7.7,87,225550,
+761,Man on Fire,2004,146,R,7.7,47,377762,77.91
+762,Wind River,2017,107,R,7.7,73,267606,33.8
+763,Lost in Translation,2003,102,R,7.7,91,473841,44.59
+764,Aftersun,2022,102,R,7.7,95,74046,
+765,Harry Potter and the Goblet of Fire,2005,157,PG-13,7.7,81,657317,290.01
+766,The Hangover,2009,100,R,7.7,73,820387,277.32
+767,Ocean's Eleven,2001,116,PG-13,7.7,74,600797,183.42
+768,Sicario,2015,121,R,7.7,82,454264,46.89
+769,Training Day,2001,122,R,7.7,71,457223,76.63
+770,Kingsman: The Secret Service,2014,129,R,7.7,60,696380,128.26
+771,Coraline,2009,100,PG,7.7,80,250640,75.29
+772,Zodiac,2007,157,R,7.7,79,574436,33.08
+773,Mission: Impossible - Fallout,2018,147,PG-13,7.7,86,364021,220.16
+774,Harry Potter and the Deathly Hallows: Part 1,2010,146,PG-13,7.7,65,577537,295.98
+775,Deliverance,1972,109,R,7.7,80,116231,7.06
+776,Halloween,1978,91,R,7.7,87,292765,47.0
+777,500 Days of Summer,2009,95,PG-13,7.7,76,539694,32.39
+778,Blue Is the Warmest Colour,2013,180,NC-17,7.7,90,159122,2.2
+779,When Harry Met Sally...,1989,95,R,7.7,76,232145,92.82
+780,Midnight in Paris,2011,94,PG-13,7.7,81,440168,56.82
+781,Mr. Nobody,2009,141,R,7.7,63,241335,0.0
+782,Silver Linings Playbook,2012,122,R,7.7,81,728589,132.09
+783,Black Hawk Down,2001,144,R,7.7,74,412834,108.64
+784,Airplane!,1980,88,PG,7.7,78,252543,83.4
+785,Home Alone,1990,103,PG,7.7,63,612161,285.76
+786,Ex Machina,2014,108,R,7.7,78,568836,25.44
+787,Another Round,2020,117,Not Rated,7.7,79,180634,
+788,The Game,1997,129,R,7.7,63,415284,48.32
+789,And Your Mother Too,2001,106,R,7.7,89,126867,13.62
+790,The Last of the Mohicans,1992,112,R,7.7,76,180585,75.51
+791,The Name of the Rose,1986,130,R,7.7,54,113239,7.15
+792,First Blood,1982,93,R,7.7,61,266546,47.21
+793,Blue Velvet,1986,120,R,7.7,76,209255,8.55
+794,Tangled,2010,100,PG,7.7,71,477453,200.82
+795,Brokeback Mountain,2005,134,R,7.7,87,372243,83.04
+796,What's Eating Gilbert Grape,1993,118,PG-13,7.7,73,247534,9.17
+797,Birdman or (The Unexpected Virtue of Ignorance),2014,119,R,7.7,87,652106,42.34
+798,Primal Fear,1996,129,R,7.7,47,237955,56.12
+799,Fried Green Tomatoes,1991,130,PG-13,7.7,64,79324,82.42
+800,A Few Good Men,1992,138,R,7.7,62,278309,141.34
+801,The Dirty Dozen,1967,150,Approved,7.7,73,77077,45.3
+802,Donnie Brasco,1997,127,R,7.7,76,321920,41.91
+803,Blazing Saddles,1974,93,R,7.7,73,147081,119.5
+804,The Boondock Saints,1999,108,R,7.7,44,245626,0.03
+805,The Count of Monte Cristo,2002,131,PG-13,7.7,61,144886,54.23
+806,The Lego Movie,2014,100,PG,7.7,83,377594,257.76
+807,Sense and Sensibility,1995,136,PG,7.7,84,121844,43.18
+808,3:10 to Yuma,2007,122,R,7.7,76,324452,53.61
+809,Flipped,2010,90,PG,7.7,45,94666,1.75
+810,Glengarry Glen Ross,1992,100,R,7.7,82,112424,10.73
+811,Who Framed Roger Rabbit,1988,104,PG,7.7,83,210932,156.45
+812,Toy Story 4,2019,100,G,7.7,84,268574,434.04
+813,X: First Class,2011,131,PG-13,7.7,65,711164,146.41
+814,Gravity,2013,91,PG-13,7.7,96,847641,274.09
+815,"O Brother, Where Art Thou?",2000,107,PG-13,7.7,69,323425,45.51
+816,Argo,2012,120,R,7.7,86,629513,136.03
+817,The Fault in Our Stars,2014,126,PG-13,7.7,69,392148,124.87
+818,Star Trek II: The Wrath of Khan,1982,113,PG,7.7,68,126782,78.91
+819,The Bourne Supremacy,2004,108,PG-13,7.7,73,477981,176.24
+820,As Good as It Gets,1997,139,PG-13,7.7,67,310902,148.48
+821,Crash,2004,112,R,7.7,66,444537,54.58
+822,Apollo 13,1995,140,PG,7.7,77,307246,173.84
+823,Philadelphia,1993,125,PG-13,7.7,66,252013,77.32
+824,Wreck-It Ralph,2012,101,PG,7.7,72,444532,189.42
+825,A Man Called Ove,2015,116,PG-13,7.7,70,65441,3.48
+826,Dirty Harry,1971,102,R,7.7,87,164247,35.9
+827,Star Trek Into Darkness,2013,132,PG-13,7.7,72,492316,228.78
+828,Empire of the Sun,1987,153,PG,7.7,62,131471,22.24
+829,Gattaca,1997,106,PG-13,7.7,64,315584,12.34
+830,The French Connection,1971,104,R,7.7,94,130641,15.63
+831,Road to Perdition,2002,117,R,7.7,72,278570,104.45
+832,Naked,1993,131,Not Rated,7.7,85,42241,1.77
+833,Sound of Metal,2019,120,R,7.7,82,141559,
+834,The Color Purple,1985,154,PG-13,7.7,78,92088,98.47
+835,Belle de Jour,1967,100,R,7.7,,47257,0.03
+836,The Theory of Everything,2014,123,PG-13,7.7,71,470156,35.89
+837,The Magnificent Seven,1960,128,Approved,7.7,74,99642,4.91
+838,The Boy in the Striped Pajamas,2008,94,PG-13,7.7,55,234948,9.03
+839,Happiness,1998,134,NC-17,7.7,81,72906,2.81
+840,The Trial of the Chicago 7,2020,129,R,7.7,76,187448,
+841,Evil Dead II,1987,84,R,7.7,72,176395,5.92
+842,Serpico,1973,130,R,7.7,83,130459,29.8
+843,Bonnie and Clyde,1967,111,R,7.7,86,117774,
+844,Kung Fu Hustle,2004,99,R,7.7,78,146818,17.11
+845,The Wind Rises,2013,126,PG-13,7.7,83,92823,5.21
+846,This Is England,2006,101,Not Rated,7.7,86,126237,0.33
+847,Paprika,2006,90,R,7.7,81,90728,0.88
+848,Goldfinger,1964,110,PG,7.7,87,197777,51.08
+849,Being John Malkovich,1999,113,R,7.7,90,346951,22.86
+850,Clerks,1994,92,R,7.7,70,228883,3.15
+851,Adaptation.,2002,115,R,7.7,83,198909,22.25
+852,Roma,2018,135,R,7.7,96,165656,
+853,Malcolm X,1992,202,PG-13,7.7,73,99342,48.17
+854,Detachment,2011,98,Not Rated,7.7,52,94162,0.07
+855,Lucky Number Slevin,2006,110,R,7.7,53,321157,22.49
+856,Ray,2004,152,PG-13,7.7,73,154043,75.33
+857,Badlands,1973,94,PG,7.7,93,76356,
+858,The Great Beauty,2013,141,Not Rated,7.7,86,95236,2.85
+859,Billy Elliot,2000,110,R,7.7,74,139691,22.0
+860,Me and Earl and the Dying Girl,2015,105,PG-13,7.7,74,135888,6.74
+861,The Vanishing,1988,107,Not Rated,7.7,,41689,
+862,Ordinary People,1980,124,R,7.7,86,55111,54.8
+863,Miller's Crossing,1990,115,R,7.7,66,139372,5.08
+864,"South Park: Bigger, Longer & Uncut",1999,81,R,7.7,73,211387,52.04
+865,The Last Emperor,1987,163,PG-13,7.7,76,108485,43.98
+866,Hamlet,1996,242,PG-13,7.7,,39246,4.41
+867,Mother,2009,129,R,7.7,79,68939,0.55
+868,Fantasia,1940,124,G,7.7,96,101106,76.41
+869,Beasts of No Nation,2015,137,TV-MA,7.7,79,84945,0.08
+870,Run Lola Run,1998,80,R,7.7,77,203711,7.27
+871,The Verdict,1982,129,R,7.7,77,44099,54.0
+872,Black Book,2006,145,R,7.7,71,79054,4.4
+873,Finding Neverland,2004,106,PG,7.7,67,209977,51.68
+874,The Longest Day,1962,178,G,7.7,75,57993,39.1
+875,Porco Rosso,1992,94,PG,7.7,83,96472,
+876,The Man from Nowhere,2010,119,R,7.7,,72858,0.01
+877,The Quiet Man,1952,129,Passed,7.7,85,40992,10.55
+878,Short Cuts,1993,188,R,7.7,81,46534,6.11
+879,Kubo and the Two Strings,2016,101,PG,7.7,84,135525,48.02
+880,Breathless,1960,90,Not Rated,7.7,,85726,0.34
+881,Waking Life,2001,99,R,7.7,84,66003,2.89
+882,Open Your Eyes,1997,119,R,7.7,,71875,0.37
+883,Fantastic Planet,1973,72,PG,7.7,73,35073,0.19
+884,Frost/Nixon,2008,122,R,7.7,80,110925,18.59
+885,The Broken Circle Breakdown,2012,111,Not Rated,7.7,70,42481,0.18
+886,Dreams,1990,119,PG,7.7,,28061,1.96
+887,Perfect Strangers,2016,96,,7.7,,69081,
+888,Nebraska,2013,115,R,7.7,86,121028,17.65
+889,Night on Earth,1991,129,R,7.7,68,63948,2.02
+890,Invasion of the Body Snatchers,1956,80,Approved,7.7,92,52926,
+891,The African Queen,1951,105,PG,7.7,91,82279,0.54
+892,Taste of Cherry,1997,95,Not Rated,7.7,80,34292,0.31
+893,The Caine Mutiny,1954,124,Not Rated,7.7,63,29036,21.75
+894,The Magdalene Sisters,2002,114,R,7.7,83,28018,4.89
+895,Happy Together,1997,96,Not Rated,7.7,70,32469,0.19
+896,The Motorcycle Diaries,2004,126,R,7.7,75,103570,16.78
+897,Zulu,1964,138,Not Rated,7.7,77,41449,
+898,The Double Life of Véronique,1991,98,R,7.7,86,51490,2.0
+899,When Marnie Was There,2014,103,PG,7.7,72,44927,0.77
+900,The Little Prince,2015,108,PG,7.7,70,64993,1.34
+901,The Lady Vanishes,1938,96,Not Rated,7.7,98,55497,
+902,Hard Boiled,1992,128,R,7.7,,52741,
+903,Black Narcissus,1947,101,Not Rated,7.7,86,26595,
+904,Good Bye Lenin!,2003,121,R,7.7,68,150319,4.06
+905,Marty,1955,90,Not Rated,7.7,82,25989,
+906,Wait Until Dark,1967,108,Not Rated,7.7,81,32589,17.55
+907,A Man for All Seasons,1966,120,G,7.7,72,36286,28.35
+908,Scarface,1932,93,PG,7.7,90,29423,
+909,Key Largo,1948,100,Approved,7.7,,43083,
+910,Cape Fear,1962,106,Passed,7.7,76,30730,
+911,The Purple Rose of Cairo,1985,82,PG,7.7,75,53611,10.63
+912,Hedwig and the Angry Inch,2001,95,R,7.7,85,36813,3.03
+913,The Salesman,2016,124,PG-13,7.7,85,63251,2.4
+914,Down by Law,1986,107,R,7.7,75,54035,1.44
+915,Confessions,2010,106,Not Rated,7.7,,41020,
+916,Adam's Apples,2005,94,R,7.7,51,53058,0.0
+917,Evil,2003,113,Not Rated,7.7,61,40599,0.02
+918,The Triplets of Belleville,2003,80,PG-13,7.7,91,56151,7.0
+919,The Experiment,2001,120,R,7.7,59,95333,0.14
+920,Joint Security Area,2000,110,Not Rated,7.7,58,32902,
+921,Fireworks,1997,103,,7.7,83,32177,0.23
+922,The Girl Who Leapt Through Time,2006,98,TV-PG,7.7,66,69189,
+923,In America,2002,105,PG-13,7.7,76,43904,15.54
+924,Love and Death,1975,85,PG,7.7,89,39982,
+925,After the Wedding,2006,120,R,7.7,78,36088,0.41
+926,Jules and Jim,1962,105,Not Rated,7.7,97,43450,
+927,The Breadwinner,2017,94,PG-13,7.7,78,27443,0.31
+928,Zelig,1983,79,PG,7.7,,43368,11.8
+929,The Muppet Christmas Carol,1992,85,G,7.7,64,64767,27.28
+930,The Past,2013,130,PG-13,7.7,85,50156,1.33
+931,The Edge of Heaven,2007,122,Not Rated,7.7,85,32977,0.74
+932,Harry Potter and the Sorcerer's Stone,2001,152,PG,7.6,65,823805,317.58
+933,Once Upon a Time in Hollywood,2019,161,R,7.6,83,799501,142.5
+934,American Psycho,2000,102,R,7.6,64,675843,15.07
+935,Saw,2004,103,R,7.6,46,443620,56.0
+936,Superbad,2007,113,R,7.6,76,611482,121.46
+937,Stardust,2007,127,PG-13,7.6,66,279575,38.63
+938,Watchmen,2009,162,R,7.6,56,569317,107.51
+939,300,2006,117,R,7.6,52,845648,210.61
+940,The Fifth Element,1997,126,PG-13,7.6,52,491769,63.54
+941,Office Space,1999,89,R,7.6,68,279761,10.82
+942,What We Do in the Shadows,2014,86,R,7.6,76,193286,3.33
+943,Guardians of the Galaxy Vol. 2,2017,136,PG-13,7.6,67,734875,389.81
+944,Star Wars: Episode III - Revenge of the Sith,2005,140,PG-13,7.6,68,822784,380.26
+945,Kick-Ass,2010,117,R,7.6,66,581598,48.07
+946,RoboCop,1987,102,R,7.6,70,271863,53.42
+947,Deadpool 2,2018,119,R,7.6,66,618292,324.59
+948,Moneyball,2011,133,PG-13,7.6,87,448572,75.61
+949,Kung Fu Panda,2008,92,PG,7.6,74,498024,215.43
+950,The Others,2001,104,PG-13,7.6,74,381543,96.52
+951,A Star Is Born,2018,136,R,7.6,88,405062,215.29
+952,End of Watch,2012,109,R,7.6,68,260588,41.0
+953,The Butterfly Effect,2004,113,R,7.6,30,508741,57.94
+954,Hell or High Water,2016,102,R,7.6,88,242621,27.01
+955,Mulan,1998,87,G,7.6,71,304922,120.62
+956,Dawn of the Planet of the Apes,2014,130,PG-13,7.6,79,456631,208.55
+957,Minority Report,2002,145,PG-13,7.6,80,571300,132.07
+958,The Blind Side,2009,129,PG-13,7.6,53,351296,255.96
+959,True Grit,2010,110,PG-13,7.6,80,350653,171.24
+960,Eastern Promises,2007,100,R,7.6,83,254224,17.11
+961,The Machinist,2004,101,R,7.6,61,406253,1.08
+962,The Thin Red Line,1998,170,R,7.6,78,195240,36.4
+963,The Birds,1963,119,PG-13,7.6,90,198797,11.4
+964,My Cousin Vinny,1992,120,R,7.6,68,135280,52.93
+965,Despicable Me,2010,95,PG,7.6,72,568188,251.51
+966,The Fly,1986,96,R,7.6,79,194423,40.46
+967,The Royal Tenenbaums,2001,110,R,7.6,76,306123,52.36
+968,Snow White and the Seven Dwarfs,1937,83,Approved,7.6,96,209634,184.93
+969,Gone Baby Gone,2007,114,R,7.6,72,282977,20.3
+970,Lethal Weapon,1987,109,R,7.6,68,269580,65.21
+971,Match Point,2005,124,R,7.6,72,224164,23.09
+972,The Road Warrior,1981,96,R,7.6,77,188505,12.47
+973,The Mitchells vs the Machines,2021,114,PG,7.6,81,120318,
+974,Dark Waters,2019,126,PG-13,7.6,73,95759,
+975,The Raid: Redemption,2011,101,R,7.6,73,212564,4.11
+976,Rushmore,1998,93,R,7.6,86,193790,17.11
+977,The Skin I Live In,2011,120,R,7.6,70,160807,3.19
+978,After Hours,1985,97,R,7.6,90,76070,10.6
+979,Rebel Without a Cause,1955,111,PG-13,7.6,89,95506,
+980,The Jungle Book,1967,78,G,7.6,65,193021,141.84
+981,50/50,2011,100,R,7.6,72,338446,35.01
+982,Die Hard with a Vengeance,1995,128,R,7.6,58,399450,100.01
+983,Ponyo,2008,101,G,7.6,86,154499,15.09
+984,Searching,2018,102,PG-13,7.6,71,175574,26.02
+985,United 93,2006,111,R,7.6,90,109273,31.57
+986,The Last King of Scotland,2006,123,R,7.6,74,192531,17.61
+987,Sabrina,1954,113,Passed,7.6,72,68393,
+988,21 Grams,2003,124,R,7.6,70,242636,16.29
+989,I Am Sam,2001,132,PG-13,7.6,28,153298,40.31
+990,The Bridges of Madison County,1995,135,PG-13,7.6,69,86226,71.52
+991,From Here to Eternity,1953,118,Passed,7.6,85,49508,30.5
+992,Barton Fink,1991,116,R,7.6,69,126490,6.15
+993,25th Hour,2002,135,R,7.6,69,182668,13.06
+994,The Taking of Pelham One Two Three,1974,104,R,7.6,68,33562,2.49
+995,The Invisible Man,1933,71,TV-PG,7.6,87,38074,
+996,Philomena,2013,98,PG-13,7.6,77,102591,37.71
+997,A Very Long Engagement,2004,133,R,7.6,76,75171,6.17
+998,Control,2007,122,R,7.6,78,67479,0.87
+999,Shine,1996,105,PG-13,7.6,87,55756,35.81
+1,Cell 211,2009,113,,7.6,,69658,
